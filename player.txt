@@ -1,1 +1,2 @@
 int HP =0;
+int MP =0;
